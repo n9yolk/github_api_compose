@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>Users Search</item>
+        <item>Repo Search</item>
+    </string-array>
+</resources>
